@@ -1,0 +1,19 @@
+name: aso100-20180910
+channels:
+- conda-forge
+- defaults
+dependencies:
+- bokeh
+- ipython
+- matplotlib
+- notebook
+- numpy
+- pandas
+- pip
+- python
+- requests
+- scikit-learn
+- scipy
+- seaborn
+- setuptools
+- statsmodels
