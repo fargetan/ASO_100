@@ -12,6 +12,7 @@ dependencies:
 - pip
 - python
 - requests
+- rpy2
 - scikit-learn
 - scipy
 - seaborn
