@@ -6,4 +6,4 @@ This repository is a collection of resources for hands-on practice of data scien
 
 The primary focus will be creating a jupyter notebook environment to allow for the application of Python and possibly R or other scripting languages and tools to manipulate, describe and visualize data.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fargetan/ASO_100/master
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fargetan/ASO_100/master]
