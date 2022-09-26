@@ -4,7 +4,7 @@ import requests
 # pull a small sample of the City of Chicago Health Inspection data
 
 response = requests.get(
-    "https://data.cityofchicago.org/resource/cwig-ma7x.json",
+    "https://data.cityofchicago.org/resource/4ijn-s7e5.json",
     params="$limit=25000"
 )
 
