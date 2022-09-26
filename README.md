@@ -6,6 +6,8 @@ This repository is a collection of resources for hands-on practice of data scien
 
 The primary focus will be creating a jupyter notebook environment to allow for the application of Python and possibly R or other scripting languages and tools to manipulate, describe and visualize data.
 
-Link to run in the browser on mybinder.org
-https://mybinder.org/v2/gh/fargetan/ASO_100/HEAD
+## How to use this repository from anywhere
+Mybinder.org allows you to spin up the Jupyterlab environment and run the notebooks in the repository.
+[Open this repository at mybinder.org](https://mybinder.org/v2/gh/fargetan/ASO_100/HEAD)
 
+Alternatively you could clone this to your computer and host the notebooks locally, perhaps using [Anaconda](https://www.anaconda.com)
